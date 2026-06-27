@@ -3,18 +3,14 @@
 > **An interactive Power BI dashboard for monitoring academic
 > performance, attendance, and student behavior.**
 
-```{=html}
-<p align="center">
-```
+
 ![Power
 BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue) ![Data
 Modeling](https://img.shields.io/badge/Star%20Schema-Implemented-success)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-```{=html}
-</p>
-```
+
 
 ------------------------------------------------------------------------
 
@@ -60,7 +56,7 @@ performance, and analyze individual student progress.
 
 # 📂 Dataset
 
-    Students
+    Datasets
     ├── Students.csv
     ├── Scores.csv
     ├── Attendance.csv
@@ -192,6 +188,10 @@ Student-Performance-Dashboard/
 │
 ├── Assets/
 ├── Data sets/
+│   ├── Students.csv
+│   ├── Scores.csv
+│   ├── Attendance.csv
+│   └── Behavior.csv
 ├── Screenshots/
 │   ├── Executive_Dashboard.png
 │   ├── Student_Analysis.png
